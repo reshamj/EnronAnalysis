@@ -11,3 +11,32 @@
   Install: Python 3, anaconda, pandas, numpy, sklearn, seaborn, regular expression, pickle 
   
   Run with jupyter notebook.
+  
+  
+  # Fraud Detection and prevention using datamining on credit transactions 
+  This project is developed in python and supporting data analysis and machine learning libraries. 
+  
+  
+  Dataset: Extracted form ULB Machine Learning group availble on Kaggle. 
+  
+  
+  FDS model 1, 2 and 3 implemented multiple machine learning algorithms on dataset corresponding files are Model1.ipynb, Model2.ipynb
+  and Model3.ipynb 
+  
+  Dependencies
+  Python 3.7 
+  Anaconda for python 3.7
+  Numpy 
+  Pandas 
+  Scikit Learn
+  Xgboost 
+  Imbalanced Learn 
+  Ipython 
+  Jupyter notebook
+  Matplotlib
+  Seaborn 
+  
+  Run: 
+  jupyter notebook 
+  
+  
